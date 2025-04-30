@@ -1,2 +1,3 @@
 # genai-chatbot
-rakeshaichat.ccbp.tech
+
+[Visit the chatbot here](https://rakeshaichat.ccbp.tech)
